@@ -15,5 +15,7 @@ Projeto usa técnicas de Deep Learning (Aprendizado Profundo) para implementar u
 https://github.com/GilbertoRadecki/Visao_Computacional
 
 ### 03. Processamento de Linguagem Natural: Análise de Emoções em Textos
-img src="/assets/img/p1.jpg" alt="Análise de Emoções">
-Projeto usa técnicas de Deep Learning (Aprendizado Profundo) para implementar um modelo de inteligência artificial que classifica, com 96% de acurária, imagens de células afetadas ou não por leucemia.
+<img src="/assets/img/p1.jpg" alt="Análise de Emoções">
+Utilização de técnicas de PNL (Processamento de Linguagem Natural) para análise de emoções em avaliações de produtos e serviços no idioma português.
+
+https://github.com/GilbertoRadecki/Analise-de-Emocoes---PNL

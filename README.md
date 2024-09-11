@@ -13,3 +13,7 @@ https://github.com/GilbertoRadecki/Projeto-ChatBot
 Projeto usa técnicas de Deep Learning (Aprendizado Profundo) para implementar um modelo de inteligência artificial que classifica, com 96% de acurária, imagens de células afetadas ou não por leucemia.
 
 https://github.com/GilbertoRadecki/Visao_Computacional
+
+### 03. Processamento de Linguagem Natural: Análise de Emoções em Textos
+img src="/assets/img/p1.jpg" alt="Análise de Emoções">
+Projeto usa técnicas de Deep Learning (Aprendizado Profundo) para implementar um modelo de inteligência artificial que classifica, com 96% de acurária, imagens de células afetadas ou não por leucemia.
